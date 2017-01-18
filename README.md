@@ -13,9 +13,9 @@ What's funny is propagation is a word used in many many other english language s
 The goal for this project long-term is to have a vertical layout that allows for the topical points to be listed vertically in squence, page by page (scroll for the next topic) and for the different learning material to be side-loaded as needed. Graphics will be uploaded shortly to show this and what's planned.
 
 - [ ] Create visual concept for webiste
-- [ ] Create index.html holding page for concept
+- [x] Create index.html holding page for concept
 - [ ] Connect form on index.html to main provider of choice
-- [ ] Develop outline of content
+- [x] Develop outline of content
 - [ ] Order and articulate flow of content 
 - [ ] Publish outline of content and flow
 - [ ] Create drafts of each teaching component for ordered content flow
