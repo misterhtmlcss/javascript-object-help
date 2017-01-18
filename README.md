@@ -1,0 +1,1 @@
+Do you need help with Objects? Then I'm creating this web page for me and for YOU, because I am spending months and months trying to get it crystal clear and awesome in my head and what I've learned is that there are unnecessary gaps in the learning experience online.
